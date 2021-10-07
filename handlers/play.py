@@ -27,6 +27,7 @@ from config import (
     THUMB_IMG,
     UPDATES_CHANNEL,
     que,
+    OWNER_NAME,
 )
 from downloaders import youtube
 from helpers.admins import get_administrators
@@ -523,11 +524,11 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton("🖱 ᴍᴇɴᴜ", callback_data="menu"),
                     InlineKeyboardButton("🗑 ᴄʟᴏsᴇ", callback_data="cls"),
-                ],
-                [
-                    InlineKeyboardButton(
-                        "📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"
-                    )
+                ],[
+                    InlineKeyboardButton("📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"),
+                    InlineKeyboardButton("✨ ɢʀᴏᴜᴘ", url=f"https://t.me/{GROUP_SUPPORT}"),
+                ],[
+                    InlineKeyboardButton("👑 Owner", url=f"https://t.me/{OWNER_NAME}"),
                 ],
             ]
         )
@@ -570,11 +571,11 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton("🖱 ᴍᴇɴᴜ", callback_data="menu"),
                     InlineKeyboardButton("🗑 ᴄʟᴏsᴇ", callback_data="cls"),
-                ],
-                [
-                    InlineKeyboardButton(
-                        "📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"
-                    )
+                ],[
+                    InlineKeyboardButton("📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"),
+                    InlineKeyboardButton("✨ ɢʀᴏᴜᴘ", url=f"https://t.me/{GROUP_SUPPORT}"),
+                ],[
+                    InlineKeyboardButton("👑 Owner", url=f"https://t.me/{OWNER_NAME}"),
                 ],
             ]
         )
@@ -662,11 +663,11 @@ async def play(_, message: Message):
                     [
                         InlineKeyboardButton("🖱 ᴍᴇɴᴜ", callback_data="menu"),
                         InlineKeyboardButton("🗑 ᴄʟᴏsᴇ", callback_data="cls"),
-                    ],
-                    [
-                        InlineKeyboardButton(
-                            "📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"
-                        )
+                    ],[
+                        InlineKeyboardButton("📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"),
+                        InlineKeyboardButton("✨ ɢʀᴏᴜᴘ", url=f"https://t.me/{GROUP_SUPPORT}"),
+                    ],[
+                        InlineKeyboardButton("👑 Owner", url=f"https://t.me/{OWNER_NAME}"),
                     ],
                 ]
             )
@@ -767,8 +768,12 @@ async def lol_cb(b, cb):
             [
                 InlineKeyboardButton("🖱 ᴍᴇɴᴜ", callback_data="menu"),
                 InlineKeyboardButton("🗑 ᴄʟᴏsᴇ", callback_data="cls"),
+            ],[
+                InlineKeyboardButton("📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"),
+                InlineKeyboardButton("✨ ɢʀᴏᴜᴘ", url=f"https://t.me/{GROUP_SUPPORT}"),
+            ],[
+                InlineKeyboardButton("👑 Owner", url=f"https://t.me/{OWNER_NAME}"),
             ],
-            [InlineKeyboardButton("📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}")],
         ]
     )
     await generate_cover(title, thumbnail)
@@ -919,12 +924,11 @@ async def ytplay(_, message: Message):
             [
                 InlineKeyboardButton("🖱 ᴍᴇɴᴜ", callback_data="menu"),
                 InlineKeyboardButton("🗑 ᴄʟᴏsᴇ", callback_data="cls"),
-            ],
-            [
-                InlineKeyboardButton(
-                    "📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"),
-                InlineKeyboardButton(
-                    "✨ ɢʀᴏᴜᴘ", url=f"https://t.me/{GROUP_SUPPORT}"),
+            ],[
+                InlineKeyboardButton("📣 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"),
+                InlineKeyboardButton("✨ ɢʀᴏᴜᴘ", url=f"https://t.me/{GROUP_SUPPORT}"),
+            ],[
+                InlineKeyboardButton("👑 Owner", url=f"https://t.me/{OWNER_NAME}"),
             ],
         ]
     )
