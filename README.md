@@ -5,13 +5,13 @@
 <p align="center"><a href="https://t.me/GroupVirtualMusic"><img src="https://telegra.ph/file/8e36fa003cfbb75aa3883.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
-    <a href="https://github.com/levina-lab/VeezMusic/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
-    <a href="https://app.codacy.com/gh/levina-lab/VeezMusic/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=red&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
-    <a href="https://github.com/levina-lab/VeezMusic"> <img src="https://img.shields.io/github/repo-size/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/levina-lab/VeezMusic/commits/main"> <img src="https://img.shields.io/github/last-commit/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/levina-lab/VeezMusic/issues"> <img src="https://img.shields.io/github/issues/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/levina-lab/VeezMusic/network/members"> <img src="https://img.shields.io/github/forks/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
-    <a href="https://github.com/levina-lab/VeezMusic/network/members"> <img src="https://img.shields.io/github/stars/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
+    <a href="https://github.com/Tonic990/VirtualMusik/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
+    <a href="https://app.codacy.com/gh/Tonic990/VirtualMusik/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=red&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
+    <a href="https://github.com/Tonic990/VirtualMusik"> <img src="https://img.shields.io/github/repo-size/Tonic990/VirtualMusik?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/Tonic990/VirtualMusik/commits/main"> <img src="https://img.shields.io/github/last-commit/Tonic990/VirtualMusik?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/Tonic990/VirtualMusik/issues"> <img src="https://img.shields.io/github/issues/Tonic990/VirtualMusik?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/Tonic990/VirtualMusik/network/members"> <img src="https://img.shields.io/github/forks/Tonic990/VirtualMusik?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
+    <a href="https://github.com/Tonic990/VirtualMusik/network/members"> <img src="https://img.shields.io/github/stars/Tonic990/VirtualMusik?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
 </p>
 
 <h3>Requirements 📝</h3>
