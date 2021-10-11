@@ -86,7 +86,7 @@
 - `/blocklist` - show the list of all people who's blocked for using your bot
 
 ## 🔎 Inline Search Support
-- just type the bot username in any chat, example: "`@VeezMusicBot Faded Alan Walker`", then bot will give you a results of the query you search in inline mode.
+- just type the bot username in any chat, example: "`@VMusicID_bot Faded Alan Walker`", then bot will give you a results of the query you search in inline mode.
 
 ## Heroku Deployment 💜
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
@@ -102,7 +102,7 @@ pip3 install -U pip
 curl -sL https://deb.nodesource.com/setup_16.x | bash -
 sudo apt-get install -y nodejs
 npm i -g npm
-git clone https://github.com/levina-lab/VeezMusic # Clone your repo.
+git clone https://github.com/Tonic990/VirtualMusik # Clone your repo.
 cd VeezMusic
 pip3 install -U -r requirements.txt
 cp example.env .env #Use vim to edit ENVs
@@ -122,4 +122,4 @@ python3 main.py # Run the bot
 - [TeamDaisyX](https://github.com/TeamDaisyX) for base code
 
 ### Support & Updates 🎑
-<a href="https://t.me/VeezSupportGroup"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/levinachannel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/GroupVirtualMusic"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/VirtualMusicChannel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
